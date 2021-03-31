@@ -1,0 +1,15 @@
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/bin/Debug/net5.0/week9.deps.json
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/bin/Debug/net5.0/week9.runtimeconfig.json
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/bin/Debug/net5.0/week9.runtimeconfig.dev.json
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/bin/Debug/net5.0/week9.dll
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/bin/Debug/net5.0/ref/week9.dll
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/bin/Debug/net5.0/week9.pdb
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/obj/Debug/net5.0/week9.csprojAssemblyReference.cache
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/obj/Debug/net5.0/week9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/obj/Debug/net5.0/week9.AssemblyInfoInputs.cache
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/obj/Debug/net5.0/week9.AssemblyInfo.cs
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/obj/Debug/net5.0/week9.csproj.CoreCompileInputs.cache
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/obj/Debug/net5.0/week9.dll
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/obj/Debug/net5.0/ref/week9.dll
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/obj/Debug/net5.0/week9.pdb
+/Users/jesseviau/Desktop/School2021-2022/c#/week9/obj/Debug/net5.0/week9.genruntimeconfig.cache
